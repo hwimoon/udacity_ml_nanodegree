@@ -19,7 +19,7 @@ This package is uploaded as an excercise provided by Udacity, which is a part of
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/hwimoon/udacity_ml_nanodegree/blob/master/hbm_distributions-1.0/license.txt) file for details
 
 ## Acknowledgments
 
