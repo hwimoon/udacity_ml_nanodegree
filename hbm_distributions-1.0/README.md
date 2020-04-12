@@ -1,4 +1,4 @@
-# Project Title
+# Gaussian/Binomial Distributions
 
 Generates Gaussian/Binomial distributions using the parameters given and calculates the mean and the standard deviation of a dataset. This package also handles adding distributions (i.e. Binomial + Binomial & Gaussian + Gaussian)
 
